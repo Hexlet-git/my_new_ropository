@@ -1,0 +1,16 @@
+{
+    "name": "tati/my_first_package",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Tati\\MyFirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Тати",
+            "email": "tdudnik35@gmail.com"
+        }
+    ],
+    "require": {}
+}
