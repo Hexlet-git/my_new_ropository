@@ -1,6 +1,6 @@
 <?php
 
-namespace Hexlet\Php\Runner;
+namespace Tati\MyFirstPackage\Runner;
 
 function run()
 {

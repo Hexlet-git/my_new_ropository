@@ -2,9 +2,9 @@
     "name": "tati/my_first_package",
     "description": "example package",
     "autoload": {
-        "psr-4": {
-            "Tati\\MyFirstPackage\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
